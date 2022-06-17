@@ -1,4 +1,5 @@
-{ 
+{   
+    'trying a new rule': Categories.TRAVEL_ACCOMODATION,
     'rule blablabla': Categories.TRANSFERS_BANK_SLIP,
     'new_nice rule': Categories.NEW_CATEGORY,
     'pgto licenciamento veiculos canais internet licenciamento el': Categories.TRANSPORTATION_OWNERSHIP_FEES,
